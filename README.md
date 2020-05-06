@@ -8,3 +8,5 @@ made using node.js and socket.io
 4. Run index.html locally on any browser using Go Live
 5. Open multiple instances of index.html and login as different users
 6. To send private messages add @username to your message and watch the magic happen! :)
+
+### check the png file to see how it works
