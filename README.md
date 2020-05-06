@@ -1,7 +1,7 @@
 # Chat-App
 made using node.js and socket.io
 
-##Steps to run the project:
+## Steps to run the project:
 1. Clone the project
 2. Run npm install in the root directory
 3. Run npm devStart to host the server at a localhost:xxxx
