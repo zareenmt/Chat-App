@@ -36,4 +36,3 @@ function addMsg(msg) {
     chatbox.append(msgElement);
 
 }
-//Zareen was here and she did your mom
